@@ -1,3 +1,6 @@
+# Fork of cute_headers
+Cleaned up non-essential files to facilitate use as a lightweight submodule in the Eternity Works project.
+
 # cute_headers
 
 Various single-file cross-platform C/C++ headers implementing self-contained libraries.
